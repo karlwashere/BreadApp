@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/speeded.png
+SHA1-Digest: nMHqwnXfebsilcrsRPwGaMESwZ8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: vUwSEcc1UsrOjvJ8n9EuU2Vowv8=
+
+Name: res/layout/alleninfo.xml
+SHA1-Digest: 3AZfdC+B9q/bMmK6bxfVA2/XPK4=
+
+Name: res/layout/sale.xml
+SHA1-Digest: LcLJtk3tv/cFLkC4TgYN4kV1UDE=
+
+Name: res/layout/signupscreen.xml
+SHA1-Digest: 9ySVV0tFpnkUG/3X8noy1CIktWM=
+
+Name: res/layout/main.xml
+SHA1-Digest: 1LBJtzpSnG6+uf+muKRftU3EtlA=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: res/layout/checkout.xml
+SHA1-Digest: SEe43FjP1T3b+CdjIX/E92jpK/M=
+
+Name: res/drawable-xhdpi-v4/rubinson.png
+SHA1-Digest: AI3enLUVqJuxvGkHbyPFU1tu8k8=
+
+Name: res/drawable-xhdpi-v4/bingchilling.png
+SHA1-Digest: 8eTs3Tx2SWU+qvLxZ1eAbVrdTCE=
+
+Name: resources.arsc
+SHA1-Digest: sVzwkdfyoC5+A8oNslzf9Z56LOk=
+
+Name: classes.dex
+SHA1-Digest: ESKISH8FBBsws1xcVdB+OxzM0rE=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: U3yer8Ttg/L0lidqdZ4zHwe84TI=
+
+Name: res/drawable-xhdpi-v4/bried.png
+SHA1-Digest: dL+sg9BP/g/RcUPXTpz7oK/xNW0=
+
